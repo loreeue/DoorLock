@@ -69,5 +69,12 @@ Este sistema tiene múltiples aplicaciones, como en cuartos de servidores, ofici
 2. Enciende el sistema utilizando USB o batería de 9V.
 3. Usa la aplicación móvil para interactuar con el sistema.
 
+## Contribuidores en este proyecto
+
+- [@alejandro](https://github.com/alejandroluzuriaga)
+- [@oleksandr](https://github.com/DarkS34)
+- [@yo](https://github.com/loreeue)
+
+
 ## Conclusión
 El **Sistema de Autenticación DoorLock** es una solución innovadora que combina seguridad, usabilidad y bajo costo. Ofrece una alternativa viable a productos comerciales más costosos y representa una herramienta útil para entornos que requieren altos estándares de seguridad.
