@@ -2,6 +2,8 @@
 
 Este proyecto desarrolla un sistema de autenticación para abrir una puerta basado en tres niveles de seguridad: **APP**, **credenciales** y **huella dactilar**. Implementado como parte de la asignatura de Sistemas Empotrados y de Tiempo Real, este sistema combina software y hardware para garantizar la seguridad y la usabilidad.
 
+En este [link](https://blogs.etsii.urjc.es/dseytr/sistema-de-autenticacion-en-una-puerta/) nos encontramos con una descripción más detallada del proyecto.
+
 ## Tabla de Contenidos
 - [Introducción](#introducción)
 - [Características](#características)
